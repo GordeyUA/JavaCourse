@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="67c234f7-5ec1-42a9-bca7-07c924b2d504" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson3/StudentGradeRecord.java" afterDir="false" />
+    <list default="true" id="67c234f7-5ec1-42a9-bca7-07c924b2d504" name="Changes" comment="lesson 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lesson3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson3/Solution.java" afterDir="false" />
     </list>
@@ -124,6 +120,15 @@
       <option name="presentableId" value="Default" />
       <updated>1728405352887</updated>
     </task>
+    <task id="LOCAL-00001" summary="lesson 3">
+      <option name="closed" value="true" />
+      <created>1728857668172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728857668172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,6 +153,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lesson 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
